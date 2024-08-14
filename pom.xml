@@ -18,6 +18,7 @@
         <module>product-service</module>
         <module>order-service</module>
         <module>inventory-service</module>
+        <module>notification-service</module>
     </modules>
 
     <name>microservices-parent</name>

@@ -1,4 +1,4 @@
-package com.nskay.microservices.order.event;
+package com.nskay.microservices.notification.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
